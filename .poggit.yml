@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/iRainDropYT/idk
+branches:
+- master
+projects:
+  idk:
+    path: ""
+...
